@@ -1,4 +1,4 @@
-#tramp game prog
+#tramp game prog 
 import random
 
 #modifiers: grouped easy-med-hard-custom(expert)
